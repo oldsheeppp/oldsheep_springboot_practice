@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "config.jwt.head",
+      "type": "java.lang.String",
+      "description": "Description for config.jwt.head."
+  }
+] }
